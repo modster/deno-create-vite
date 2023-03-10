@@ -1,4 +1,4 @@
-import { useState } from './deps.ts'
+import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
 
